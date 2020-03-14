@@ -1,9 +1,9 @@
 let bs = require("browser-sync").create();
 
 const paths = {
-  rootDir : "./src",
-  srcDir : "./src",
-  html: "./src/**/*.html"
+  rootDir : "./docs",
+  srcDir : "./docs",
+  html: "./docs/**/*.html"
 }
 
 bs.init({
