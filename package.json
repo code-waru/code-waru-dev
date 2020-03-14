@@ -1,0 +1,14 @@
+{
+  "name": "browsersync-base",
+  "version": "1.0.0",
+  "description": "web-development-recipes browsersync-base",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Warugaki Ninja",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
